@@ -92,37 +92,45 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🎙️ [Local Voice AI Agent](https://github.com/Utkarsh4412/Local-Voice-AI-Agent)
+<td width="50%" valign="top">
+<h3>🎙️ <a href="https://github.com/Utkarsh4412/Local-Voice-AI-Agent">Local Voice AI Agent</a></h3>
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-AI%20%2F%20Voice-a855f7?style=flat-square"/>
+
 > *Your local, private AI companion — no cloud needed*
 
-- 🗣️ Moonshine **STT** → Gemma 3 (Ollama) → Kokoro **TTS** pipeline
-- 🧠 Conversational memory, retry logic, timing metrics
-- 📦 Runs on **1B model** — optimized for low-bandwidth setups
-- 🌐 Local / LAN / Public sharing modes
+| Component | Stack |
+|---|---|
+| 🗣️ Speech-to-Text | Moonshine STT |
+| 🧠 LLM Brain | Gemma 3 via Ollama |
+| 🔊 Text-to-Speech | Kokoro TTS |
+| 🌐 Interface | Gradio + WebRTC |
 
-`Python` `Ollama` `Gradio` `WebRTC` `YAML`
+📦 Runs on **1B model** · Local / LAN / Public modes · Conversational memory
 
 </td>
-<td width="50%" valign="top">
 
-### 🧙 [Harry Potter Invisibility Cloak](https://github.com/Utkarsh4412/Harry-Potter-Invisibility-Cloak)
+<td width="50%" valign="top">
+<h3>🧙 <a href="https://github.com/Utkarsh4412/Harry-Potter-Invisibility-Cloak">Harry Potter Invisibility Cloak</a></h3>
+<img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Computer%20Vision-5C3EE8?style=flat-square"/>
+
 > *Real-time computer vision magic*
 
-- 🎨 HSV color detection + background subtraction
-- 🎥 Real-time frame blending for invisibility illusion
-- 🎚️ Live trackbar tuning for HSV parameters
+| Technique | Detail |
+|---|---|
+| 🎨 Detection | HSV color masking |
+| 🎥 Effect | Real-time frame blending |
+| 🎚️ Tuning | Live trackbar controls |
+| 📹 Input | Webcam stream |
 
-`Python` `OpenCV` `NumPy`
+🔮 Background subtraction · NumPy frame ops · Demo video included
 
 </td>
-<td width="50%" valign="top">
 
-</td>
 </tr>
 </table>
-
 ---
 
 ## 🏆 Hackathons & Recognition
