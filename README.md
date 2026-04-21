@@ -131,7 +131,7 @@
 
 </tr>
 </table>
----
+
 
 ## 🏆 Hackathons & Recognition
 
