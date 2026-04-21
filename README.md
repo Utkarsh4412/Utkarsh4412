@@ -119,29 +119,6 @@
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [Artha Mart — E-Commerce Platform](https://github.com/Utkarsh4412/E-Commerce-Website-Artha-mart-)
-> *Full-stack group e-commerce platform, built from scratch*
-
-- 🔐 Auth, cart, orders, product management
-- 🗄️ Designed complete MySQL schema
-- 🔙 Flask backend with secure SQL queries
-- 🎨 Responsive JavaScript frontend
-
-`Flask` `MySQL` `Python` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [Smart Home Automation System](https://github.com/Utkarsh4412/Smart-Home-Automation-System)
-> *C++ based home control & energy monitoring*
-
-- 🌡️ Temperature monitoring & energy usage calculation
-- 🔌 Device control simulator
-
-`C++` `File I/O`
-
 </td>
 </tr>
 </table>
