@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Utkarsh%20Tiwari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%E2%80%A2%20Quantum%20Explorer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Utkarsh%20Tiwari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20ML%20Researcher%20and%20Engineer%20%E2%80%A2%20NLP%20IR%20and%20RAG%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Research+Intern+%40+IIT+Hyderabad+%F0%9F%94%AC;Building+RAG+Pipelines+%26+IR+Systems+%F0%9F%A7%A0;Quantum+Computing+Researcher+%E2%9A%9B%EF%B8%8F;NLP+%7C+CV+%7C+Full-Stack+%7C+IoT;Hackathon+Finalist+%7C+Open-Source+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=AI+ML+Researcher+%26+Engineer+%F0%9F%94%AC;NLP+%7C+Information+Retrieval+%7C+RAG;Former+Researcher+%40+IIT+Hyderabad+%26+CybraneX;Applied+AI+ML+Engineering+%F0%9F%A7%A0;Hackathon+Finalist+%7C+Open+Source+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,22 +19,21 @@
 ### 🧠 What I'm About
 
 ```
-🔬 NLP Research  →  IIT Hyderabad (NLIP Lab)
-⚛️  Quantum ML   →  Cybranex Pvt. Ltd.
-🤖 Applied AI   →  RAG, IR Pipelines, NLP
-🌐 Full-Stack   →  Flask · React · MySQL
-🏆 Hackathons   →  IIT Dhanbad · UP · Amity
+🔬 NLP & IR Research → IIT Hyderabad (NLIP Lab)
+📊 AI/Data Evaluation → IIT Hyderabad (NLIP Lab)
+⚛️ Quantum ML → CybraneX Pvt. Ltd.
+🤖 Applied AI/ML → Automation, Classification, AI Systems
+🌐 Full-Stack → Flask · React · MySQL
+🏆 Hackathons → IIT Dhanbad · UP · Amity
 ```
 
 </td>
 <td align="center" width="50%">
 
 ### ⚡ Currently
-
-- 🔭 Building an **end-to-end IR pipeline** for academic papers with RAG + ChromaDB + Elasticsearch
-- ⚛️ Designing **Quantum Autoencoders** for data compression (Qiskit, PennyLane)
-- 🧬 Exploring **hybrid quantum–classical** architectures
-- 📚 B.Tech @ SAKEC — CGPA **8.4/10**
+- 🎓 **Final year** B.Tech in Electronics and Computer Science Engineering at SAKEC | CGPA **8.63/10**
+- 🔬 Exploring **AI/ML research** across NLP, Information Retrieval, RAG, LLMs, and AI evaluation
+- 🛠️ Building and experimenting with **practical AI/ML systems** while exploring research opportunities
 
 </td>
 </tr>
@@ -79,7 +78,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Quantum (Learning)**
+**Quantum ML**
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-00C7B7?style=for-the-badge&logoColor=white)
@@ -98,7 +97,7 @@
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
 <img src="https://img.shields.io/badge/Type-AI%20%2F%20Voice-a855f7?style=flat-square"/>
 
-> *Your local, private AI companion — no cloud needed*
+> *Your local, private AI companion - no cloud needed*
 
 | Component | Stack |
 |---|---|
@@ -137,7 +136,7 @@
 
 | 🏆 Event | 🎯 Result | 💡 Project |
 |---|---|---|
-| **Innovate-a-thon @ IIT (ISM) Dhanbad** — Concetto'25 | 🥈 Finalist | *Reloop* — AI-driven circular economy platform |
+| **Innovate-a-thon @ IIT (ISM) Dhanbad** - Concetto'25 | 🥈 Finalist | *Reloop* - AI-driven circular economy platform |
 | **HackWithUttarPradesh 2025** | 🥈 Finalist | Smart Irrigation System (IoT + ML) |
 | **HackSetu 1.0 @ Amity University Gwalior** | 🏁 Grand Finale | AI + IoT irrigation with real-time sensor data |
 | **E²Calonics'25** | 📄 Paper Selected | ML-optimized irrigation using environmental params |
@@ -147,10 +146,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh4412&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh4412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="165"/>
 
 <br/>
 
@@ -191,7 +186,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Utkarsh4412&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>
 
-*"The best way to predict the future is to build it — one commit at a time."*
+*"The best way to predict the future is to build it - one commit at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
