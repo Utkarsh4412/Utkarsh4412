@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=AI+ML+Researcher+%26+Engineer+%F0%9F%94%AC;NLP+%7C+Information+Retrieval+%7C+RAG;Former+Researcher+%40+IIT+Hyderabad+%26+CybraneX;Applied+AI+ML+Engineering+%F0%9F%A7%A0;Hackathon+Finalist+%7C+Open+Source+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=AI+ML+Researcher+%26+Engineer+%F0%9F%94%AC;NLP+%7C+Information+Retrieval+%7C+RAG;HPC-QC+Fellow+%40+C-DAC+Pune;Former+Researcher+%40+IIT+Hyderabad+%26+CybraneX;Applied+AI+ML+Engineering+%F0%9F%A7%A0;Hackathon+Finalist+%7C+Open+Source+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,6 +19,7 @@
 ### 🧠 What I'm About
 
 ```
+⚛️ HPC-QC Fellow → C-DAC, Pune
 🔬 NLP & IR Research → IIT Hyderabad (NLIP Lab)
 📊 AI/Data Evaluation → IIT Hyderabad (NLIP Lab)
 ⚛️ Quantum ML → CybraneX Pvt. Ltd.
