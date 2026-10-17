@@ -32,7 +32,7 @@
 <td align="center" width="50%">
 
 ### ⚡ Currently
-- 🎓 **Final year** B.Tech in Electronics and Computer Science Engineering at SAKEC | CGPA **8.63/10**
+- 🎓 **Final year** B.Tech in Electronics and Computer Science Engineering at SAKEC | CGPA **8.17/10**
 - 🔬 Exploring **AI/ML research** across NLP, Information Retrieval, RAG, LLMs, and AI evaluation
 - 🛠️ Building and experimenting with **practical AI/ML systems** while exploring research opportunities
 
