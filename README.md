@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=AI+ML+Researcher+%26+Engineer+%F0%9F%94%AC;NLP+%7C+Information+Retrieval+%7C+RAG;HPC-QC+Fellow+%40+C-DAC+Pune;Former+Researcher+%40+IIT+Hyderabad+%26+CybraneX;Applied+AI+ML+Engineering+%F0%9F%A7%A0;Hackathon+Finalist+%7C+Open+Source+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=AI+ML+Researcher+%26+Engineer+%F0%9F%94%AC;NLP+%7C+Information+Retrieval+%7C+RAG;HPC-QC+Fellow+%40+C-DAC+Pune;Research+%40+IIT+Hyderabad+%26+CybraneX;Applied+AI+ML+Engineering+%F0%9F%A7%A0;Hackathon+Finalist+%7C+AI+Systems+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
 ⚛️ HPC-QC Fellow → C-DAC, Pune
 🔬 NLP & IR Research → IIT Hyderabad (NLIP Lab)
 📊 AI/Data Evaluation → IIT Hyderabad (NLIP Lab)
-⚛️ Quantum ML → CybraneX Pvt. Ltd.
+⚛️ Quantum ML → CybraneX (TerraQ)
 🤖 Applied AI/ML → Automation, Classification, AI Systems
 🌐 Full-Stack → Flask · React · MySQL
 🏆 Hackathons → IIT Dhanbad · UP · Amity
@@ -52,6 +52,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **AI / ML / NLP**
 
@@ -65,9 +66,11 @@
 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 
 **Web & Frameworks**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -77,12 +80,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Quantum ML**
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-00C7B7?style=for-the-badge&logoColor=white)
+![pytket](https://img.shields.io/badge/pytket-0B3D91?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -94,38 +99,38 @@
 <tr>
 
 <td width="50%" valign="top">
-<h3>🎙️ <a href="https://github.com/Utkarsh4412/Local-Voice-AI-Agent">Local Voice AI Agent</a></h3>
+<h3>🔬 <a href="https://github.com/Utkarsh4412/Litmus">Litmus</a></h3>
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-AI%20%2F%20Voice-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-RAG%20Evaluation-a855f7?style=flat-square"/>
 
-> *Your local, private AI companion - no cloud needed*
+> *A workbench for comparing RAG strategies*
 
-| Component | Stack |
+| Component | Detail |
 |---|---|
-| 🗣️ Speech-to-Text | Moonshine STT |
-| 🧠 LLM Brain | Gemma 3 via Ollama |
-| 🔊 Text-to-Speech | Kokoro TTS |
-| 🌐 Interface | Gradio + WebRTC |
+| 🔍 Retrieval | Hybrid dense + BM25, RRF fusion, cross-encoder rerank |
+| 🧭 Strategies | Classic, graph and agentic behind one API |
+| ✅ Citations | Server-side validated source citations |
+| 📏 Evaluation | Recall@K, nDCG, versioned judge, regression gate |
 
-📦 Runs on **1B model** · Local / LAN / Public modes · Conversational memory
+🧪 1,571 backend + 294 frontend tests · React/TypeScript UI with pipeline traces · Docker
 
 </td>
 
 <td width="50%" valign="top">
-<h3>🧙 <a href="https://github.com/Utkarsh4412/Harry-Potter-Invisibility-Cloak">Harry Potter Invisibility Cloak</a></h3>
-<img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-Computer%20Vision-5C3EE8?style=flat-square"/>
+<h3>🎙️ <a href="https://github.com/Utkarsh4412/vaak">vaak</a></h3>
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-AI%20%2F%20Voice-a855f7?style=flat-square"/>
 
-> *Real-time computer vision magic*
+> *A fully local, multilingual voice agent - no cloud needed*
 
-| Technique | Detail |
+| Component | Stack |
 |---|---|
-| 🎨 Detection | HSV color masking |
-| 🎥 Effect | Real-time frame blending |
-| 🎚️ Tuning | Live trackbar controls |
-| 📹 Input | Webcam stream |
+| 🗣️ Speech-to-Text | Moonshine (English), Faster-Whisper (multilingual) |
+| 🧠 LLM | Ollama |
+| 🔊 Text-to-Speech | Kokoro TTS |
+| 🌐 Transport | FastRTC (WebRTC) + FastAPI |
 
-🔮 Background subtraction · NumPy frame ops · Demo video included
+⚡ Sentence-chunked streaming · Barge-in cancellation · Per-session isolation · 104 tests
 
 </td>
 
@@ -165,8 +170,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Utkarsh4412/Utkarsh4412/output/github-snake.svg"/>
 </picture>
 </div>
-
-> 💡 *To enable the snake animation, set up [this GitHub Action](https://github.com/Platane/snk) in your profile repo.*
 
 ---
 
